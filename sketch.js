@@ -53,7 +53,7 @@ var ballc = 3;
     var y = innerHeight/2-50;
     function setup(){
         createCanvas(window.innerWidth,window.innerHeight);
-         arcade = loadFont('ARCADECLASSIC.TTF');
+        arcade = loadFont('ARCADECLASSIC.TTF');
         frame= 8;
         textFont(arcade);
     }
