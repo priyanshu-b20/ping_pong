@@ -25,3 +25,5 @@
 - Method: 2  
 <code>git clone https://github.com/priyanshu-bisht/ping_pong.git</code>  
 <code>open index.html</code>
+
+#### __Made with ❤ by Priyanshu Bisht__
